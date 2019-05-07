@@ -1,1 +1,2 @@
+[![Board Status](https://codedev.ms/mipatera/aebf3ad2-e7ef-47b9-bf5f-8692e1f40deb/26928795-3c99-462d-9cdd-c3141800d12c/_apis/work/boardbadge/9692d8f6-3fd3-469e-b863-33f13d4f6cce)](https://codedev.ms/mipatera/aebf3ad2-e7ef-47b9-bf5f-8692e1f40deb/_boards/board/t/26928795-3c99-462d-9cdd-c3141800d12c/Microsoft.RequirementCategory)
 # miketest
